@@ -48,9 +48,6 @@
   <a href="https://discordapp.com/users/xyozi_" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="35" alt="discord logo"  />
   </a>
-  <a href="indramaulin@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="35" alt="gmail logo"  />
-  </a>
   <a href="https://wa.me/6285788134245" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=flat" height="35" alt="whatsapp logo"  />
   </a>
@@ -67,15 +64,5 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/indramaulin76/indramaulin76/output/snake.svg" alt="Snake animation" />
-
-###
-
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/indramaulin76/indramaulin76/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/indramaulin76/indramaulin76/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/indramaulin76/indramaulin76/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
