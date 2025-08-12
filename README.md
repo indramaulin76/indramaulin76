@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">Full Stack Developer</h2>
+<h2 align="left">Full Stack Web Developer</h2>
 
 ###
 
