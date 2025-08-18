@@ -42,9 +42,6 @@
 ###
 
 <div align="left">
-  <a href="https://www.instagram.com/indramaulanaf76?igsh=MTFuMXBicmN0M3Y4ag==" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="35" alt="instagram logo"  />
-  </a>
   <a href="https://discordapp.com/users/xyozi_" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="35" alt="discord logo"  />
   </a>
@@ -58,11 +55,5 @@
 <div align="center">
   <img height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmZlcjNjaDVwOGxlY2c1c2VodmV1ZTR3d28yanpjbG5jZWlsaTBuMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/indramaulin76/indramaulin76/output/snake.svg" alt="Snake animation" />
 
 ###
